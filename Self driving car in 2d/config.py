@@ -1,0 +1,17 @@
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+CAR_COLOR = (0, 100, 255)
+
+# Car settings
+CAR_WIDTH = 30
+CAR_HEIGHT = 50
+
+TURN_ANGLE = 3       # Degrees
+ACCELERATION = 0.1
+FRICTION = 0.98
